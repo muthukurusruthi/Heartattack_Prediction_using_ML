@@ -51,6 +51,8 @@ The model achieves high accuracy in predicting heart attack risks. The evaluatio
 🖼️ Performance Metrics  
 ![Performance_Metrics](performance_metrics.png)  
 
+🖼️ Auto Visualization  
+![Auto_Visualization](auto_visualization.png)  
 
 📌 Future Enhancements
 🔹 Improve accuracy with Hyperparameter Tuning
