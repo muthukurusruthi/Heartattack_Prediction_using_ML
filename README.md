@@ -44,9 +44,13 @@ The model achieves high accuracy in predicting heart attack risks. The evaluatio
 ✅ F1 Score
 ✅ ROC-AUC Curve
 
-📸 Screenshots
-🖼️ process
-🖼️ performance metrics
+📸 Screenshots  
+🖼️ Process  
+![Process](process.png)  
+
+🖼️ Performance Metrics  
+![Performance_Metrics](performance_metrics.png)  
+
 
 📌 Future Enhancements
 🔹 Improve accuracy with Hyperparameter Tuning
